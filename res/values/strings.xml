@@ -3,5 +3,7 @@
 
     <string name="hello">Hello World, CorporateMarketActivity!</string>
     <string name="app_name">Corporate Market</string>
+    <color name="bgColMainForm">#FFFFFF</color>
+    <string name="handle">Handle</string>
 
 </resources>
